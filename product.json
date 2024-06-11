@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "FIVESTAR 175W",
+        "price": 520,
+        "image": "images/1.6.webp"
+    },
+    {
+        "id": 2,
+        "name": "CONDERENERGY 160W",
+        "price": 220,
+        "image": "images/1.webp"
+    },
+    {
+        "id": 3,
+        "name": "TE3500-24 L Solar Inverter 3KW",
+        "price": 250,
+        "image": "images/1.5.webp"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "SUNSYNK LITHIUM BATTERY LFP WALL",
+        "price": 420,
+        "image": "images/sunsynkx.webp"
+    },
+    {
+        "id": 5,
+        "name": "Deye 6.14kWh Lithium Battery",
+        "price": 120,
+        "image": "images/RW-M6.1-V5.120_800x.webp"
+    },
+    {
+        "id": 6,
+        "name": "Lithium Battery RW-M6.1",
+        "price": 120,
+        "image": "images/RW-M6.1-V4.62_800x.webp"
+    }
+]

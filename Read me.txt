@@ -1,0 +1,47 @@
+## DCT Solar System - Solar Energy Monitoring and Quotes
+
+**Welcome!**
+
+This document provides a basic overview of the DCT Solar System, a web-based platform designed to empower you, the user, to monitor your solar energy system and obtain quotes for adding batteries and inverters.
+
+**Getting Started**
+
+The DCT Solar System is accessible through the DCT Solar website. You can access the monitoring and quote functionalities by following these steps:
+
+1. Visit the DCT Solar website: www.DCT.co.za
+2. Locate the login section (details on creating an account will be provided by DCT Solar).
+3. Once logged in, navigate to the "Solar Monitoring" or "Quote Builder" sections based on your needs.
+
+**Solar Monitoring Dashboard**
+
+The solar monitoring dashboard provides a user-friendly interface to view real-time and historical data on your solar energy system. Key features include:
+
+* **Energy Production:** Track your system's current and past electricity generation. 
+* **Energy Consumption:** Monitor your overall energy usage.
+* **System Health:** Gain insights into the health of your solar energy system through various data points.
+* **Customization:** Tailor the dashboard to your needs by selecting specific timeframes and data points for display.
+* **Alerts:** Set up alerts to be notified of any potential system issues.
+
+**Streamlined Quote Builder**
+
+The quote builder simplifies the process of obtaining quotes for adding batteries and inverters to your solar energy system. Here's how it works:
+
+1. Enter basic information about your existing solar system.
+2. Select the desired battery or inverter options.
+3. Receive instant quotes tailored to your specific needs.
+
+**Technical Requirements**
+
+To access the DCT Solar System, you will need a web browser and a stable internet connection. The system is compatible with most modern browsers.
+
+**Security**
+
+DCT Solar takes user data security seriously. We have implemented robust security measures to protect your information, including secure data encryption and user authentication protocols.
+
+**Support**
+
+For any questions or technical assistance regarding the DCT Solar System, please contact DCT Solar directly through the website's contact form or by phone at 076829723892.
+
+**Thank you for choosing DCT Solar!**
+
+We hope this user-friendly system empowers you to take control of your solar energy experience.
